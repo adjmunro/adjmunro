@@ -44,6 +44,11 @@ Current Projects
   width=420 
   src="https://github-readme-stats.vercel.app/api/pin/?username=adjmunro&repo=project-kish-kt&description_lines_count=3" 
 />
+
+<img 
+  width=420 
+  src="https://github-readme-stats.vercel.app/api/pin/?username=adjmunro&repo=dotfiles&description_lines_count=3" 
+/>
 -->
 
 Somewhat Complete Repos
