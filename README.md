@@ -32,10 +32,24 @@ Public GitHub Stats
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=adjmunro&theme=onedark"
 />
 
+<!--
+Current Projects
+---
+<img 
+  width=420 
+  src="https://github-readme-stats.vercel.app/api/pin/?username=adjmunro&repo=project-nomadic-kt&description_lines_count=3" 
+/>
+
+<img 
+  width=420 
+  src="https://github-readme-stats.vercel.app/api/pin/?username=adjmunro&repo=project-kish-kt&description_lines_count=3" 
+/>
+-->
+
 Somewhat Complete Repos
 ---
 > *These are old repositories I made during university, not current work.*
-> 
+
 <img 
   width=420 
   src="https://github-readme-stats.vercel.app/api/pin/?username=adjmunro&repo=origin-srs&description_lines_count=3" 
