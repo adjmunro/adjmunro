@@ -35,48 +35,48 @@ Public GitHub Stats
 Current Projects
 ---
 <!--
-<img 
+<a href="https://github.com/adjmunro/project-knomadic"><img 
   width=420 
-  src="https://github-readme-stats.vercel.app/api/pin/?username=adjmunro&repo=project-nomadic-kt&description_lines_count=3" 
-/>
+  src="https://github-readme-stats.vercel.app/api/pin/?username=adjmunro&repo=project-knomadic&description_lines_count=3" 
+/></a>
 -->
-<img 
+<a href="https://github.com/adjmunro/project-kitty"><img 
   width=420 
   src="https://github-readme-stats.vercel.app/api/pin/?username=adjmunro&repo=project-kitty&description_lines_count=3" 
-/>
+/></a>
 <!--
-<img 
+<a href="https://github.com/adjmunro/dotfiles"><img 
   width=420 
   src="https://github-readme-stats.vercel.app/api/pin/?username=adjmunro&repo=dotfiles&description_lines_count=3" 
-/>
+/></a>
 -->
 
 Somewhat Complete Repos
 ---
 > *These are old repositories I made during university, not current work.*
 
-<img 
+<a href="https://github.com/adjmunro/origin-srs"><img 
   width=420 
   src="https://github-readme-stats.vercel.app/api/pin/?username=adjmunro&repo=origin-srs&description_lines_count=3" 
-/>
-<img 
+/></a>
+<a href="https://github.com/adjmunro/cosc360-mars"><img 
   width=420 
   src="https://github-readme-stats.vercel.app/api/pin/?username=adjmunro&repo=cosc360-mars&description_lines_count=3" 
-/>
-<img 
+/></a>
+<a href="https://github.com/adjmunro/mt-assist"><img 
   width=420 
   src="https://github-readme-stats.vercel.app/api/pin/?username=adjmunro&repo=mt-assist&description_lines_count=3" 
-/>
+/></a>
 
 Quick Reference Gists
 ---
 > *Primarily for my own convenience.*
 
-<img 
+<a href="https://gist.github.com/adjmunro/6c8a16b081f8b4c92587c10bed176b4e"><img 
   width=420 
   src="https://github-readme-stats.vercel.app/api/gist?id=6c8a16b081f8b4c92587c10bed176b4e" 
-/>
-<img 
+/></a>
+<a href="https://gist.github.com/adjmunro/bdc82801f4f338d22ef36a7cc8e71bbf"><img 
   width=420 
   src="https://github-readme-stats.vercel.app/api/gist?id=bdc82801f4f338d22ef36a7cc8e71bbf" 
-/>
+/></a>
