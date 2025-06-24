@@ -34,12 +34,10 @@ Public GitHub Stats
 
 Current Projects
 ---
-<!--
 <a href="https://github.com/adjmunro/project-knomadic"><img 
   width=420 
   src="https://github-readme-stats.vercel.app/api/pin/?username=adjmunro&repo=project-knomadic&description_lines_count=3" 
 /></a>
--->
 <a href="https://github.com/adjmunro/project-kitty"><img 
   width=420 
   src="https://github-readme-stats.vercel.app/api/pin/?username=adjmunro&repo=project-kitty&description_lines_count=3" 
