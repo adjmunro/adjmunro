@@ -74,6 +74,10 @@ Quick Reference Gists
   width=420 
   src="https://github-readme-stats.vercel.app/api/gist?id=6c8a16b081f8b4c92587c10bed176b4e" 
 /></a>
+<a href="https://gist.github.com/adjmunro/048929eccfd8af176545e4ff609839e9"><img 
+  width=420 
+  src="https://github-readme-stats.vercel.app/api/gist?id=048929eccfd8af176545e4ff609839e9" 
+/></a>
 <a href="https://gist.github.com/adjmunro/bdc82801f4f338d22ef36a7cc8e71bbf"><img 
   width=420 
   src="https://github-readme-stats.vercel.app/api/gist?id=bdc82801f4f338d22ef36a7cc8e71bbf" 
