@@ -34,13 +34,21 @@ Public GitHub Stats
 
 Current Projects
 ---
-<a href="https://github.com/adjmunro/project-knomadic"><img 
+<a href="https://github.com/adjmunro/project-outcome"><img 
   width=420 
-  src="https://github-readme-stats.vercel.app/api/pin/?username=adjmunro&repo=project-knomadic&description_lines_count=3" 
+  src="https://github-readme-stats.vercel.app/api/pin/?username=adjmunro&repo=project-outcome&description_lines_count=3" 
 /></a>
 <a href="https://github.com/adjmunro/project-kitty"><img 
   width=420 
   src="https://github-readme-stats.vercel.app/api/pin/?username=adjmunro&repo=project-kitty&description_lines_count=3" 
+/></a>
+<a href="https://github.com/adjmunro/project-inline"><img 
+  width=420 
+  src="https://github-readme-stats.vercel.app/api/pin/?username=adjmunro&repo=project-inline&description_lines_count=3" 
+/></a>
+<a href="https://github.com/adjmunro/project-kotlogger"><img 
+  width=420 
+  src="https://github-readme-stats.vercel.app/api/pin/?username=adjmunro&repo=project-kotlogger&description_lines_count=3" 
 /></a>
 <!--
 <a href="https://github.com/adjmunro/dotfiles"><img 
