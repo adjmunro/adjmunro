@@ -53,23 +53,6 @@ Current Projects
 /></a>
 -->
 
-Old & Somewhat Complete Repos
----
-> *These are old repositories I made during university, not current work.*
-
-<a href="https://github.com/adjmunro/origin-srs"><img 
-  width=278 
-  src="https://github-readme-stats.vercel.app/api/pin/?username=adjmunro&repo=origin-srs&description_lines_count=3" 
-/></a>
-<a href="https://github.com/adjmunro/cosc360-mars"><img 
-  width=278
-  src="https://github-readme-stats.vercel.app/api/pin/?username=adjmunro&repo=cosc360-mars&description_lines_count=3" 
-/></a>
-<a href="https://github.com/adjmunro/mt-assist"><img 
-  width=278 
-  src="https://github-readme-stats.vercel.app/api/pin/?username=adjmunro&repo=mt-assist&description_lines_count=3" 
-/></a>
-
 Quick Reference Gists
 ---
 > *Primarily for my own convenience.*
@@ -85,4 +68,25 @@ Quick Reference Gists
 <a href="https://gist.github.com/adjmunro/bdc82801f4f338d22ef36a7cc8e71bbf"><img 
   width=278 
   src="https://github-readme-stats.vercel.app/api/gist?id=bdc82801f4f338d22ef36a7cc8e71bbf" 
+/></a>
+<a href="https://gist.github.com/adjmunro/35da94c340874ab735beeb1884003185"><img 
+  width=278 
+  src="https://github-readme-stats.vercel.app/api/gist?id=35da94c340874ab735beeb1884003185" 
+/></a>
+
+Old & Somewhat Complete Repos
+---
+> *These are old repositories I made during university, not current work.*
+
+<a href="https://github.com/adjmunro/origin-srs"><img 
+  width=278 
+  src="https://github-readme-stats.vercel.app/api/pin/?username=adjmunro&repo=origin-srs&description_lines_count=3" 
+/></a>
+<a href="https://github.com/adjmunro/cosc360-mars"><img 
+  width=278
+  src="https://github-readme-stats.vercel.app/api/pin/?username=adjmunro&repo=cosc360-mars&description_lines_count=3" 
+/></a>
+<a href="https://github.com/adjmunro/mt-assist"><img 
+  width=278 
+  src="https://github-readme-stats.vercel.app/api/pin/?username=adjmunro&repo=mt-assist&description_lines_count=3" 
 /></a>
