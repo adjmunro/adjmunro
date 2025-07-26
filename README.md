@@ -17,7 +17,7 @@ READMME States Documentation https://github.com/anuraghazra/github-readme-stats
 
 Public GitHub Stats
 ---
-> *Most of my work is for [private](https://www.startpage.com/do/mypage.pl?prfe=5d65a01964c396cee0f82c4c07faa6eda10bafe281ecb059915e95700e5ba988a1d549e34336c847cd055623cc97a37e06795338a1177b0b895ac3409ab2484a6b18787cd5a64f2da56246c9) [companies](https://github.com/orbitremit/android), and so it's not represented T-T*
+> *Most of my work is for [private](https://www.startpage.com/do/mypage.pl?prfe=5d65a01964c396cee0f82c4c07faa6eda10bafe281ecb059915e95700e5ba988a1d549e34336c847cd055623cc97a37e06795338a1177b0b895ac3409ab2484a6b18787cd5a64f2da56246c9) [companies](https://github.com/orbitremit/android/pulls), and so it's not represented T-T*
 
 <img 
   width=555
