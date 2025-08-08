@@ -32,21 +32,21 @@ Public GitHub Stats
 
 Current Projects
 ---
-<a href="https://github.com/adjmunro/project-outcome"><img 
+<a href="https://github.com/adjmunro/kotlin-outcome"><img 
   width=420 
-  src="https://github-readme-stats.vercel.app/api/pin/?username=adjmunro&repo=project-outcome&description_lines_count=3" 
+  src="https://github-readme-stats.vercel.app/api/pin/?username=adjmunro&repo=kotlin-outcome&description_lines_count=3" 
 /></a>
-<a href="https://github.com/adjmunro/project-kitty"><img 
+<a href="https://github.com/adjmunro/kotlin-kitty"><img 
   width=420 
-  src="https://github-readme-stats.vercel.app/api/pin/?username=adjmunro&repo=project-kitty&description_lines_count=3" 
+  src="https://github-readme-stats.vercel.app/api/pin/?username=adjmunro&repo=kotlin-kitty&description_lines_count=3" 
 /></a>
-<a href="https://github.com/adjmunro/project-inline"><img 
+<a href="https://github.com/adjmunro/kotlin-inline"><img 
   width=420 
-  src="https://github-readme-stats.vercel.app/api/pin/?username=adjmunro&repo=project-inline&description_lines_count=3" 
+  src="https://github-readme-stats.vercel.app/api/pin/?username=adjmunro&repo=kotlin-inline&description_lines_count=3" 
 /></a>
-<a href="https://github.com/adjmunro/project-kotlogger"><img 
+<a href="https://github.com/adjmunro/kotlin-logger"><img 
   width=420 
-  src="https://github-readme-stats.vercel.app/api/pin/?username=adjmunro&repo=project-kotlogger&description_lines_count=3" 
+  src="https://github-readme-stats.vercel.app/api/pin/?username=adjmunro&repo=kotlin-logger&description_lines_count=3" 
 /></a>
 <!--
 <a href="https://github.com/adjmunro/dotfiles"><img 
