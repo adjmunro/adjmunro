@@ -40,13 +40,9 @@ Current Projects
   width=420 
   src="https://github-readme-stats.vercel.app/api/pin/?username=adjmunro&repo=kotlin-kitty&description_lines_count=3" 
 /></a>
-<a href="https://github.com/adjmunro/kotlin-inline"><img 
+<a href="https://github.com/adjmunro/kotlin-util"><img 
   width=420 
-  src="https://github-readme-stats.vercel.app/api/pin/?username=adjmunro&repo=kotlin-inline&description_lines_count=3" 
-/></a>
-<a href="https://github.com/adjmunro/kotlin-logger"><img 
-  width=420 
-  src="https://github-readme-stats.vercel.app/api/pin/?username=adjmunro&repo=kotlin-logger&description_lines_count=3" 
+  src="https://github-readme-stats.vercel.app/api/pin/?username=adjmunro&repo=kotlin-util&description_lines_count=3" 
 /></a>
 <!--
 <a href="https://github.com/adjmunro/dotfiles"><img 
